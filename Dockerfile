@@ -1,5 +1,5 @@
 FROM java:8-jre
-MAINTAINER lowmem0ry <18817814702@163.com>
+MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
 
 ARG CONFLUENCE_VERSION=6.0.4
 # permissions
