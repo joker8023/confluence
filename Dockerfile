@@ -1,4 +1,4 @@
-FROM blacklabelops/java:jre8
+FROM java:8-jre
 MAINTAINER lowmem0ry <18817814702@163.com>
 
 ARG CONFLUENCE_VERSION=6.0.4
