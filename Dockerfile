@@ -4,7 +4,7 @@ FROM openjdk:8
 ENV CONF_HOME     /var/atlassian/confluence
 ENV CONF_INSTALL  /opt/atlassian/confluence
 ENV CONF_VERSION  6.0.4
-
+MAINTAINER lowmem0ry <18817814702@163.com>
 ENV JAVA_CACERTS  $JAVA_HOME/jre/lib/security/cacerts
 ENV CERTIFICATE   $CONF_HOME/certificate
 
