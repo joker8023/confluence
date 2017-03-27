@@ -30,8 +30,8 @@ docker cp confluence:/opt/atlassian/confluence/confluence/WEB-INF/lib/atlassian-
 #### 3.2.1 confluence5.1-crack文件夹内
 删除atlassian-extras-2.4.jar，
 #### 3.2.2 使用3.1 3.2.2 copy文件的atlassian-extras-decoder-v2-3.2.jar 改成atlassian-extras-2.4.jar
-#### 3.3.3 进入 iNViSiBLE ./keygen.sh 将记录下来的Service ID 输入，name可以随意填写
-#### 3.3.4 点击patch选择刚改名的文件点击.gen！生成key，即生成
+#### 3.2.3 进入 iNViSiBLE ./keygen.sh 将记录下来的Service ID 输入，name可以随意填写
+#### 3.2.4 点击patch选择刚改名的文件点击.gen！生成key，即生成
 
 ### 3.3 将atlassian-extras-2.4.jar改回atlassian-extras-decoder-v2-3.2.jar并复制回原先目录
 
