@@ -1,4 +1,4 @@
-# 基于docker 的confluence 安装
+# 基于docker 的confluence 安装 和破解
 ## 1. 下载docker-compose.yaml文件
 ```
 wget https://raw.githubusercontent.com/joker8023/confluence/master/docker-compose.yaml
